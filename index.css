@@ -1,0 +1,205 @@
+body {
+    background: #FBFAFA;
+}
+
+header {
+    background: #F5F5F5;
+}
+
+.logo {
+    width: 261px;
+    height: 77px;
+    font-family: 'Grouch BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.header1 {
+    margin-bottom: 38px;
+}
+
+h5 {
+    width: 137px;
+    height: 33px;
+    font-family: 'Caslon Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    margin: 15px;
+}
+
+.iconSearch {
+    width: 35px;
+    height: 35px;
+}
+
+hr {
+    color: #000000;
+}
+
+/* start main css */
+main {
+    background: #FBFAFA;
+    font-family: 'Poppins';
+    font-style: normal;
+    margin: 15px;
+    padding: 15px;
+}
+
+main>a {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+main>h2 {
+    font-weight: 700;
+    font-size: 32.7px;
+    line-height: 49px;
+    margin-bottom: 60px;
+}
+
+.row1 {
+    height: 70px;
+    background: #F5F5F5;
+}
+
+.row2 {
+    height: 70px;
+    background: #FFFFFF;
+    border-top: 2px solid #90111C;
+}
+
+h4 {
+    width: 237px;
+    height: 27px;
+    font-weight: 500;
+    font-size: 17.7px;
+    line-height: 27px;
+    margin: 0 auto;
+    color: #000000;
+}
+
+/* .content {
+    width: 1435px;
+    height: 1057px;
+    background: #FFFFFF;
+} */
+
+h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20.7px;
+    line-height: 31px;
+    margin-top: 38px;
+    color: #000000;
+}
+
+.image-user {
+    margin-top: 8px;
+    width: 170px;
+    height: 170px;
+}
+
+.btn2 {
+    margin-right: 45px;
+}
+
+.btn3 {
+    margin-left: 45px;
+}
+
+.form-control {
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+}
+
+.form-control2 {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12.7px;
+    line-height: 19px;
+}
+
+.form-control3 {
+    width: 50px;
+    height: 30px;
+
+}
+
+.frm4 {
+    width: 267px;
+    height: 30px;
+    border-bottom: 1px solid #545454;
+    margin-top: 10px;
+}
+
+.form1 {
+    margin-top: 18px;
+}
+
+.form-group {
+    margin-top: 32px;
+}
+
+.form-group2 {
+    margin-top: 32px;
+    margin-right: 15px;
+}
+
+.form-group3 {
+    margin-top: 32px;
+    margin-left: 15px;
+}
+
+.button-submit {
+
+    width: 350px;
+    height: 40px;
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8A8A8A;
+    background-color: #EAEAEA;
+}
+
+.paypal-logo {
+    margin-top: 50px;
+}
+
+.colomn3 {
+    margin-top: 115px;
+    margin-left: 95px;
+}
+
+.labelphone {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.7px;
+    line-height: 19px;
+    margin-top: 30px;
+}
